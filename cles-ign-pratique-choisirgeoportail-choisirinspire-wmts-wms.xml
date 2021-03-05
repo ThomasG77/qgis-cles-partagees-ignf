@@ -1,0 +1,8 @@
+<!DOCTYPE connections>
+<qgsWMSConnections version="1.0">
+    <wms referer="" name="WMS clé choisirinspire" ignoreAxisOrientation="false" invertAxisOrientation="false" ignoreGetFeatureInfoURI="false" username="" password="" smoothPixmapTransform="false" dpiMode="7" ignoreGetMapURI="false" url="https://wxs.ign.fr/choisirinspire/geoportail/v/wms"/>
+    <wms referer="" name="WMS raster clé choisirgeoportail" ignoreAxisOrientation="false" invertAxisOrientation="false" ignoreGetFeatureInfoURI="false" username="" password="" smoothPixmapTransform="false" dpiMode="7" ignoreGetMapURI="false" url="https://wxs.ign.fr/choisirgeoportail/geoportail/r/wms"/>
+    <wms referer="" name="WMS vecteur clé choisirgeoportail" ignoreAxisOrientation="false" invertAxisOrientation="false" ignoreGetFeatureInfoURI="false" username="" password="" smoothPixmapTransform="false" dpiMode="7" ignoreGetMapURI="false" url="https://wxs.ign.fr/choisirgeoportail/geoportail/v/wms?VERSION=1.3.0"/>
+    <wms referer="" name="WMTS clé choisirgeoportail" ignoreAxisOrientation="false" invertAxisOrientation="false" ignoreGetFeatureInfoURI="false" username="" password="" smoothPixmapTransform="false" dpiMode="7" ignoreGetMapURI="false" url="https://wxs.ign.fr/choisirgeoportail/geoportail/wmts?SERVICE=WMTS&amp;VERSION=1.0.0&amp;REQUEST=GetCapabilities"/>
+    <wms referer="" name="WMTS clé pratique" ignoreAxisOrientation="false" invertAxisOrientation="false" ignoreGetFeatureInfoURI="false" username="" password="" smoothPixmapTransform="false" dpiMode="7" ignoreGetMapURI="false" url="https://wxs.ign.fr/pratique/geoportail/wmts?SERVICE=WMTS&amp;REQUEST=GetCapabilities"/>
+</qgsWMSConnections>

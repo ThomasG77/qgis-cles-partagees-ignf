@@ -1,0 +1,5 @@
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.1">
+    <wfs version="auto" name="WFS clé choisirgeoportail" ignoreAxisOrientation="false" invertAxisOrientation="false" pagesize="" pagingenabled="true" username="" password="" maxnumfeatures="" url="https://wxs.ign.fr/choisirgeoportail/geoportail/wfs?VERSION=2.0.0"/>
+    <wfs version="auto" name="WFS clé choisirinspire" ignoreAxisOrientation="false" invertAxisOrientation="false" pagesize="" pagingenabled="true" username="" password="" maxnumfeatures="" url="https://wxs.ign.fr/choisirinspire/geoportail/wfs"/>
+</qgsWFSConnections>
